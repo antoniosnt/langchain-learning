@@ -1,0 +1,25 @@
+review_id,restaurant,review_text,rating,date
+R001,Luna Pizza,"The margherita had a thin crisp crust, fresh basil, and balanced tomato sauce. I would order it again.",5,2025-01-12
+R002,Luna Pizza,"Good cheese and quick service, but the crust was soft in the middle and the pizza arrived lukewarm.",3,2025-01-14
+R003,Luna Pizza,The pepperoni pizza was flavorful with plenty of toppings. The garlic knots were a little dry.,4,2025-01-18
+R004,Luna Pizza,A small dining room with friendly staff. The vegetarian pizza had fresh vegetables and a nice char.,5,2025-01-21
+R005,Luna Pizza,The tomato sauce tasted too salty and the delivery took almost an hour. The pizza was still warm.,2,2025-01-23
+R006,Luna Pizza,"Excellent gluten-free crust, crisp edges, and clearly marked allergen options. A bit expensive.",4,2025-01-29
+R007,Luna Pizza,"The mushroom pizza was rich and earthy. I liked the thin crust, though it could use more sauce.",4,2025-02-02
+R008,Luna Pizza,"Our order was missing one topping, but the staff fixed it quickly. The pizza tasted fresh.",3,2025-02-06
+R009,Luna Pizza,Great lunch special with a generous slice and a drink. Fast service and a crunchy crust.,5,2025-02-10
+R010,Luna Pizza,The cheese pizza was bland and the crust tasted like it had been reheated. I will not return soon.,1,2025-02-13
+R011,Luna Pizza,The spicy sausage pizza had a good kick and plenty of cheese. The tables needed cleaning.,4,2025-02-17
+R012,Luna Pizza,Nice vegan cheese option and fresh toppings. The pizza was smaller than I expected for the price.,4,2025-02-20
+R013,Luna Pizza,"The dough was chewy and flavorful, and the oven char was perfect. The house salad was fresh too.",5,2025-02-24
+R014,Luna Pizza,"Delivery was fast, but the box was crushed and the toppings had slid to one side.",2,2025-03-01
+R015,Luna Pizza,A lovely family dinner. The four-cheese pizza was creamy without being too heavy.,5,2025-03-05
+R016,Luna Pizza,The crust was tough and there was very little sauce. The cashier was polite and helpful.,2,2025-03-09
+R017,Luna Pizza,The barbecue chicken pizza was smoky and satisfying. I would like a few more vegetarian choices.,4,2025-03-12
+R018,Luna Pizza,"The restaurant was crowded, but our order came out hot. The pepperoni was crisp and not greasy.",4,2025-03-16
+R019,Luna Pizza,"Affordable prices and good portions. The crust was soft, which I enjoy, and the service was welcoming.",5,2025-03-20
+R020,Luna Pizza,"The pizza was cold when it arrived, and customer support did not respond to my message.",1,2025-03-24
+R021,Luna Pizza,The pesto chicken pizza had bright pesto flavor and a crisp base. Parking nearby was difficult.,4,2025-03-28
+R022,Luna Pizza,"The lunch buffet had several fresh options, but the vegetarian pizza ran out before noon.",3,2025-04-02
+R023,Luna Pizza,The best part was the fluffy garlic bread. The plain cheese pizza was fine but not memorable.,3,2025-04-06
+R024,Luna Pizza,Staff handled my allergy question carefully and explained the ingredients. The pizza was delicious.,5,2025-04-10
