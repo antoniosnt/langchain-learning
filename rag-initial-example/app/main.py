@@ -6,16 +6,15 @@ from app.vector_store import retriever
 
 def main():
     model = OllamaLLM(model="qwen2.5")
-    prompt = ChatPromptTemplate.from_template(
-        """You answer questions about a pizza restaurant using customer reviews.
+    prompt = ChatPromptTemplate.from_template("""
+        You answer questions about a pizza restaurant using customer reviews.
+    
+        Relevant reviews: {reviews}
 
-Relevant reviews:
-{reviews}
+        Question: {question}
 
-Question: {question}
-
-Answer from the reviews. If they do not contain enough information, say so."""
-    )
+        Answer from the reviews. If they do not contain enough information, say so.
+    """)
     chain = prompt | model
 
     while True:
